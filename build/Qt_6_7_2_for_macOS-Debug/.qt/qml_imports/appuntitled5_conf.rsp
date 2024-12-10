@@ -1,0 +1,14 @@
+-rootPath
+/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5
+-cmake-output
+-output-file
+/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/qml_imports/appuntitled5_conf.cmake
+-importPath
+/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5
+-importPath
+/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug
+-importPath
+/Applications/QT/6.7.2/macos/./qml
+-qrcFiles
+/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qmake_untitled5.qrc
+/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/appuntitled5_raw_qml_0.qrc

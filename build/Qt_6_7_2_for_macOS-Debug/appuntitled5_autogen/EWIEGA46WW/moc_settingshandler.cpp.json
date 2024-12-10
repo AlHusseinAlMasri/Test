@@ -1,0 +1,39 @@
+{
+    "classes": [
+        {
+            "className": "SettingsHandler",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "username",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "rememberMe",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "saveSettings",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "loadSettings",
+                    "returnType": "QVariantMap"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "SettingsHandler",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "settingshandler.h",
+    "outputRevision": 68
+}

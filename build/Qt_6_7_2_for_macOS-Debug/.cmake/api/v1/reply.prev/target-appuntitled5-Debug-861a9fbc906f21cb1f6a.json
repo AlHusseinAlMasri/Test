@@ -100,7 +100,7 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 39,
+				"line" : 40,
 				"parent" : 0
 			},
 			{
@@ -124,7 +124,7 @@
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 34,
+				"line" : 35,
 				"parent" : 0
 			},
 			{
@@ -803,19 +803,19 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "appuntitled5_autogen::@6890427a1f51a3e7e1df"
-		},
-		{
-			"id" : "appuntitled5_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 65,
 			"id" : "appuntitled5_tooling::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 72,
 			"id" : "appuntitled5_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "appuntitled5_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "appuntitled5_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "appuntitled5::@6890427a1f51a3e7e1df",

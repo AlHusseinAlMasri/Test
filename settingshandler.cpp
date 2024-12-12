@@ -1,5 +1,6 @@
 #include "settingshandler.h"
 #include <QDir>
+#include <QMessageBox>
 
 SettingsHandler::SettingsHandler(QObject *parent) : QObject(parent) {
     QString currentPath = QDir::currentPath(); // Current working directory
@@ -15,9 +16,21 @@ SettingsHandler::SettingsHandler(QObject *parent) : QObject(parent) {
 }
 
 void SettingsHandler::saveSettings(const QString &username, bool rememberMe) {
+    // Show a confirmation message box
+    QMessageBox msgBox;
+    msgBox.setText("Are you sure you want to save the settings?");
+    msgBox.setStandardButtons(QMessageBox::Yes | QMessageBox::No);
+    msgBox.setDefaultButton(QMessageBox::No);
 
-    settings->setValue("username", username);
-    settings->setValue("rememberMe", rememberMe);
+    int ret = msgBox.exec(); // Show the message box and wait for user input
+
+    if (ret == QMessageBox::Yes) {
+        settings->beginGroup("DATA XY");
+        settings->setValue("username", username);
+        settings->setValue("rememberMe", rememberMe);
+    }
+
+
 }
 
 QVariantMap SettingsHandler::loadSettings() {

@@ -1,11 +1,11 @@
-#include <QGuiApplication>
+#include <QApplication>
 #include <QQmlApplicationEngine>
 
 #include <QQmlContext>
 #include "settingshandler.h" // Include the header for SettingsHandler
 int main(int argc, char *argv[])
 {
-    QGuiApplication app(argc, argv);
+    QApplication app(argc, argv);
 
     // Create the QQmlApplicationEngine instance
     QQmlApplicationEngine engine;

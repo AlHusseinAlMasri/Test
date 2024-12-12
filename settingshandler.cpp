@@ -25,7 +25,7 @@ void SettingsHandler::saveSettings(const QString &username, bool rememberMe) {
     int ret = msgBox.exec(); // Show the message box and wait for user input
 
     if (ret == QMessageBox::Yes) {
-        settings->beginGroup("DATA XY");
+        settings->beginGroup("DATA_XY");
         settings->setValue("username", username);
         settings->setValue("rememberMe", rememberMe);
     }

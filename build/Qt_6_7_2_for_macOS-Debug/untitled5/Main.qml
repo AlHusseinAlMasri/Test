@@ -8,6 +8,7 @@ ApplicationWindow {
     title: "Settings Example"
 
     Column {
+        id: mainColumn
         anchors.centerIn: parent
         spacing: 20
 
@@ -38,5 +39,28 @@ ApplicationWindow {
                 rememberMeCheckbox.checked = settings.rememberMe
             }
         }
+
+        // Navigate to Second.qml
+        Button {
+            text: "Open Second Screen"
+            onClicked: {
+                let component = Qt.createComponent("Second.qml");
+                if (component.status === Component.Ready) {
+                    let secondPage = component.createObject(stackView, { rememberMe: rememberMeCheckbox.checked });
+                    if (secondPage) {
+                        stackView.push(secondPage);
+                    } else {
+                        console.error("Failed to create Second.qml object");
+                    }
+                } else {
+                    console.error("Failed to load Second.qml component");
+                }
+            }
+        }
+
+    }
+    StackView {
+        id: stackView
+        anchors.fill: parent
     }
 }

@@ -758,7 +758,8 @@
 		"/Applications/QT/Tools/CMake/CMake.app/Contents/share/cmake-3.29/Modules/GNUInstallDirs.cmake",
 		"/Applications/QT/6.7.2/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/qml_imports/appuntitled5_conf.cmake",
-		"/Applications/QT/6.7.2/macos/lib/cmake/Qt6/macos/Info.plist.app.in"
+		"/Applications/QT/6.7.2/macos/lib/cmake/Qt6/macos/Info.plist.app.in",
+		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/res.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5",
 	"CROSS_CONFIG" : false,
@@ -798,6 +799,7 @@
 	],
 	"MOC_INCLUDES" : 
 	[
+		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/include",
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5",
 		"/Applications/QT/6.7.2/macos/lib/QtQml.framework/Versions/A/Headers/6.7.2",
 		"/Applications/QT/6.7.2/macos/lib/QtQml.framework/Versions/A/Headers/6.7.2/QtQml",
@@ -853,6 +855,7 @@
 	[
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_appuntitled5_raw_qml_0.cpp",
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_qmake_untitled5.cpp",
+		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_ButtenTest_qml.cpp",
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Main_qml.cpp",
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Second_qml.cpp",
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_qmlcache_loader.cpp",
@@ -885,6 +888,7 @@
 	[
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_appuntitled5_raw_qml_0.cpp",
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_qmake_untitled5.cpp",
+		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_ButtenTest_qml.cpp",
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Main_qml.cpp",
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Second_qml.cpp",
 		"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_qmlcache_loader.cpp",

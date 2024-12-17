@@ -1,66 +1,50 @@
 import QtQuick 2.15
 import QtQuick.Controls 2.15
 
+
+
 ApplicationWindow {
     visible: true
     width: 400
     height: 300
-    title: "Settings Example"
+    title: "Modern Buttons UI"
+    Rectangle
+    {
+        id :barBottomTop
+        anchors
+        {
+            top:parent.top
 
-    Column {
-        id: mainColumn
-        anchors.centerIn: parent
-        spacing: 20
-
-        TextField {
-            id: usernameField
-            placeholderText: "Enter your username"
-            text: ""
         }
+        width: parent.width
+        height: parent.height *.2
+        Rectangle
+        {
+            id: rectangel
+            //property string buttenImageSource: " "
+            height: width
+            radius: width/2
+            color: "#e1ede4"
 
-        CheckBox {
-            id: rememberMeCheckbox
-            text: "Remember Me"
-            checked: false
-        }
+            Image {
+                id: imageone
+                width: parent.width * .6
+                height: parent.height * .6
+                fillMode: Image.PreserveAspectFit
+                anchors.centerIn: parent
+                source: "qrc:/image/Image/icons8-html-5-400.png"
 
-        Button {
-            text: "Save Settings"
-            onClicked: {
-                settingsHandler.saveSettings(usernameField.text, rememberMeCheckbox.checked)
             }
         }
+        /*ButtenTest{
+            id: startImage
+            buttenImageSource: "qrc:/image/Image/icons8-html-5-400.png"
+            width: parent.width *.6
 
-        Button {
-            text: "Load Settings"
-            onClicked: {
-                var settings = settingsHandler.loadSettings()
-                usernameField.text = settings.username
-                rememberMeCheckbox.checked = settings.rememberMe
-            }
-        }
 
-        // Navigate to Second.qml
-        Button {
-            text: "Open Second Screen"
-            onClicked: {
-                let component = Qt.createComponent("Second.qml");
-                if (component.status === Component.Ready) {
-                    let secondPage = component.createObject(stackView, { rememberMe: rememberMeCheckbox.checked });
-                    if (secondPage) {
-                        stackView.push(secondPage);
-                    } else {
-                        console.error("Failed to create Second.qml object");
-                    }
-                } else {
-                    console.error("Failed to load Second.qml component");
-                }
-            }
-        }
-
+        }*/
     }
-    StackView {
-        id: stackView
-        anchors.fill: parent
-    }
+
+
+
 }

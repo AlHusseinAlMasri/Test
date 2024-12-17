@@ -2,6 +2,8 @@
   <qresource prefix="/qt/qml/untitled5/">
     <file alias="Main.qml">/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/Main.qml</file>
     <file alias="Second.qml">/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/Second.qml</file>
+    <file alias="ButtenTest.qml">/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/ButtenTest.qml</file>
+    <file alias="res.qrc">/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/res.qrc</file>
   </qresource>
 </RCC>
 

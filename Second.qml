@@ -3,27 +3,42 @@ import QtQuick.Controls 2.15
 
 Item {
     id: secondPage
+    width: 640
+    height: 480
 
-    // Receive the `rememberMe` property from `main.qml`
+    // Properties to receive settings
+    property string username: ""
+    property string comboboxValue: ""
     property bool rememberMe: false
 
     Column {
         anchors.centerIn: parent
 
         Text {
-            text: rememberMe ? "Remember Me is checked" : "Remember Me is not checked"
-            font.pixelSize: 18
+            text: "Username: " + username
+            font.pixelSize: 20
+        }
+
+        TextField {
+            id: usernameField
+            placeholderText: "Enter username"
+            text: username // Pre-fill with the value from .cfg
         }
 
         ComboBox {
             id: comboBox
-            visible: rememberMe // Only visible if rememberMe is true
             editable: true
             model: ListModel {
-                ListElement { text: "Option 1" }
-                ListElement { text: "Option 2" }
-                ListElement { text: "Option 3" }
+                ListElement { text: "Banana" }
+                ListElement { text: "Apple" }
+                ListElement { text: "Coconut" }
             }
+            currentText: comboboxValue // Pre-fill with the value from .cfg
+        }
+
+        Text {
+            text: rememberMe ? "Remember Me is checked" : "Remember Me is not checked"
+            font.pixelSize: 20
         }
 
         Button {

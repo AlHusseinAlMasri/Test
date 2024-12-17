@@ -42,6 +42,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./appuntitled5.app/Contents/MacOS/appuntitled5" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./appuntitled5.app/Contents/MacOS/appuntitled5")
     execute_process(COMMAND /usr/bin/install_name_tool
+      -delete_rpath "/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/lib"
       -delete_rpath "/Applications/QT/6.7.2/macos/lib"
       -add_rpath "@executable_path/../Frameworks"
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./appuntitled5.app/Contents/MacOS/appuntitled5")

@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/image">
-        <file>Image/icons8-herunterfahren-50.png</file>
-        <file>Image/icons8-start-100.png</file>
-    </qresource>
-</RCC>

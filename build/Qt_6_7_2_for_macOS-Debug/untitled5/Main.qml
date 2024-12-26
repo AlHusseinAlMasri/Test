@@ -1,50 +1,44 @@
 import QtQuick 2.15
 import QtQuick.Controls 2.15
-
-
+import com.example.profibus 1.0
 
 ApplicationWindow {
     visible: true
-    width: 400
-    height: 300
-    title: "Modern Buttons UI"
-    Rectangle
-    {
-        id :barBottomTop
-        anchors
-        {
-            top:parent.top
+    width: 800
+    height: 600
+    title: "Profibus Controller"
 
-        }
-        width: parent.width
-        height: parent.height *.2
-        Rectangle
-        {
-            id: rectangel
-            //property string buttenImageSource: " "
-            height: width
-            radius: width/2
-            color: "#e1ede4"
-
-            Image {
-                id: imageone
-                width: parent.width * .6
-                height: parent.height * .6
-                fillMode: Image.PreserveAspectFit
-                anchors.centerIn: parent
-                source: "qrc:/image/Image/icons8-html-5-400.png"
-
-            }
-        }
-        /*ButtenTest{
-            id: startImage
-            buttenImageSource: "qrc:/image/Image/icons8-html-5-400.png"
-            width: parent.width *.6
-
-
-        }*/
+    ProfibusDevice {
+        id: profibus
+        onErrorOccurred: console.log("Error: " + error)
+        onDataReceived: console.log("Data received from slave " + slaveAddress + ": " + data)
     }
 
+    Column {
+        anchors.centerIn: parent
+        spacing: 10
 
+        Button {
+            text: "Initialize"
+            onClicked: profibus.initialize(1)  // Station Address 1
+        }
 
+        Button {
+            text: "Read Data"
+            onClicked: {
+                var data = profibus.readData(10)  // Slave Address 10
+                console.log("Read Data: " + data)
+            }
+        }
+
+        Button {
+            text: "Write Data"
+            onClicked: profibus.writeData(10, "Hello Slave")
+        }
+
+        Button {
+            text: "Close"
+            onClicked: profibus.close()
+        }
+    }
 }

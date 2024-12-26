@@ -29,7 +29,7 @@ qt_add_qml_module(appuntitled5
     QML_FILES
         Main.qml
         SOURCES settingshandler.h settingshandler.cpp
-        SOURCES
+        SOURCES Backend/profibusdevice.h    Backend/profibusdevice.cpp
         QML_FILES Second.qml
         QML_FILES
         QML_FILES

@@ -3,6 +3,7 @@
 
 #include <QQmlContext>
 #include "settingshandler.h" // Include the header for SettingsHandler
+#include "./Backend/profibusdevice.h"
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
@@ -15,6 +16,9 @@ int main(int argc, char *argv[])
 
     // Expose SettingsHandler to QML using the engine's root context
     engine.rootContext()->setContextProperty("settingsHandler", &settingsHandler);
+    // Klasse für QML registrieren
+    qmlRegisterType<ProfibusDevice>("com.example.profibus", 1, 0, "ProfibusDevice");
+
 
     // Load the QML file
     QObject::connect(

@@ -34,9 +34,20 @@
 #include "dpe_def.h"	/* definitions for dpe */
 
 /* Custom additions */
-#include <windows.h>
+
 #include <stdio.h>
+#ifdef _WIN32
+#include <windows.h>
 #include <conio.h>
+#define CALLBACK __stdcall
+#else
+typedef void* HWND;      // Placeholder for HWND
+typedef bool BOOL;       // Use standard bool
+typedef unsigned int UINT;
+typedef unsigned long DWORD;
+#define CALLBACK         // Empty definition for CALLBACK
+#endif
+
 
 #define _WIN32
 #define _cplusplus
@@ -250,9 +261,9 @@ unsigned long DPExit(void);
  *
  *  returns:
  *		_DP_RESULT error code
- */ 
+ */
 
-unsigned long DPSetDispatchMessage (int (CALLBACK* DispatchFunction)(MSG *));
+//unsigned long DPSetDispatchMessage (int (CALLBACK* DispatchFunction)(MSG *));
 
 /*************************************************************
  *

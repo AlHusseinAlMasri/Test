@@ -768,6 +768,12 @@
 	"HEADERS" : 
 	[
 		[
+			"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/Backend/profibusdevice.h",
+			"MU",
+			"3X2AN3DXFV/moc_profibusdevice.cpp",
+			null
+		],
+		[
 			"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/settingshandler.h",
 			"MU",
 			"EWIEGA46WW/moc_settingshandler.cpp",
@@ -871,6 +877,11 @@
 	"SETTINGS_FILE" : "/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/appuntitled5_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/Backend/profibusdevice.cpp",
+			"MU",
+			null
+		],
 		[
 			"/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/main.cpp",
 			"MU",

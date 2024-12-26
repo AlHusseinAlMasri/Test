@@ -1,60 +1,118 @@
 # ninja log v6
-216	295	1734292255521667787	.rcc/qmlcache/appuntitled5_ButtenTest_qml.cpp	81471bd8541470d8
+532	591	1734964570161181654	.rcc/qmlcache/appuntitled5_ButtenTest_qml.cpp	81471bd8541470d8
 28	55	1734288220049036418	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/qrc.qrc	8383236783a5f018
-75	95	1734476348515319199	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/qt6appuntitled5_debug_metatypes.json.gen	f5b39a6f031dec93
-194	229	1734291801864912906	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_autogen/EWIEGA46WW/qrc_res.cpp	ea6cba970814f30e
-395	412	1734475130709601822	.qt/rcc/qrc_appuntitled5_raw_qml_0.cpp	764927701b4dd459
-498	1665	1734475130796869020	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Second_qml.cpp.o	89656f2fd757cfb1
-499	1647	1734475130797850100	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_ButtenTest_qml.cpp.o	ef91a679574da9c7
-194	229	1734291801864912906	appuntitled5_autogen/EWIEGA46WW/qrc_res.cpp	ea6cba970814f30e
-29	55	1734292255284576535	untitled5/ButtenTest.qml	d7523136b1bb21e
-209	268	1733948789970566855	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_qmltyperegistrations.cpp	dc8a6bf955938460
-61	75	1734476348514897989	meta_types/appuntitled5_json_file_list.txt.timestamp	88c23232506a1cb
-622	695	1734475130920231218	CMakeFiles/appuntitled5.dir/appuntitled5_autogen/EWIEGA46WW/qrc_res.cpp.o	dff340454ef0fb05
-248	276	1734290553920138675	.qt/rcc/qrc_qmake_untitled5.cpp	8196a0bb23d56312
-216	295	1734292255521667787	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_ButtenTest_qml.cpp	81471bd8541470d8
-209	268	1733948789970566855	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/appuntitled5.qmltypes	dc8a6bf955938460
-23	61	1734476348463319153	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_autogen/timestamp	dada95e149a13fd7
-26	47	1734217713784994249	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/Second.qml	cc0a81834328e004
+451	477	1734964570050890848	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_autogen/EWIEGA46WW/qrc_res.cpp	ea6cba970814f30e
+471	488	1734964570062502000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/qt6appuntitled5_debug_metatypes.json.gen	f5b39a6f031dec93
+19	35	1734964569608889000	untitled5/ButtenTest.qml	d7523136b1bb21e
+450	471	1734964570044885774	.qt/rcc/qrc_appuntitled5_raw_qml_0.cpp	764927701b4dd459
+592	1706	1734964570166698892	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Second_qml.cpp.o	89656f2fd757cfb1
+593	1773	1734964570167980524	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_ButtenTest_qml.cpp.o	ef91a679574da9c7
+451	477	1734964570050890848	appuntitled5_autogen/EWIEGA46WW/qrc_res.cpp	ea6cba970814f30e
+488	531	1734964570092530532	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_qmltyperegistrations.cpp	dc8a6bf955938460
+714	801	1734964570289025514	CMakeFiles/appuntitled5.dir/appuntitled5_autogen/EWIEGA46WW/qrc_res.cpp.o	dff340454ef0fb05
+450	470	1734964570044311229	meta_types/appuntitled5_json_file_list.txt.timestamp	88c23232506a1cb
+450	471	1734964570044757356	.qt/rcc/qrc_qmake_untitled5.cpp	8196a0bb23d56312
+488	531	1734964570092530532	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/appuntitled5.qmltypes	dc8a6bf955938460
+532	591	1734964570161181654	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_ButtenTest_qml.cpp	81471bd8541470d8
+154	450	1734964570015015112	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_autogen/timestamp	dada95e149a13fd7
+19	35	1734964569608948000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/Second.qml	cc0a81834328e004
 29	62	1734290117422484430	untitled5/Button.qml	9eb1b7f006761a65
-29	55	1734292255284576535	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/ButtenTest.qml	d7523136b1bb21e
-440	498	1734475130791827746	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Main_qml.cpp	fae7611237789b7a
-23	61	1734476348463319153	appuntitled5_autogen/timestamp	dada95e149a13fd7
-209	268	1733948789970566855	appuntitled5_qmltyperegistrations.cpp	dc8a6bf955938460
-498	1606	1734475130795972023	CMakeFiles/appuntitled5.dir/appuntitled5_autogen/mocs_compilation.cpp.o	f250c79496df1cf8
-500	623	1734475130798350432	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_appuntitled5_raw_qml_0.cpp.o	360350b9f6752e73
-28	50	1734475130347520074	untitled5/Main.qml	78780aa00d0c9a47
-30	57	1734291073716954665	untitled5/res.qrc	30c0527afb1058e7
-498	1779	1734475130796551730	CMakeFiles/appuntitled5.dir/settingshandler.cpp.o	eca03f953d02e1ec
-28	50	1734475130347520074	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/Main.qml	78780aa00d0c9a47
+19	35	1734964569608889000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/ButtenTest.qml	d7523136b1bb21e
+531	590	1734964570160882694	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Main_qml.cpp	fae7611237789b7a
+154	450	1734964570015015112	appuntitled5_autogen/timestamp	dada95e149a13fd7
+488	531	1734964570092530532	appuntitled5_qmltyperegistrations.cpp	dc8a6bf955938460
+19	35	1734964569609594000	untitled5/Main.qml	78780aa00d0c9a47
+20	36	1734964569609994000	untitled5/res.qrc	30c0527afb1058e7
+591	1831	1734964570165896305	CMakeFiles/appuntitled5.dir/settingshandler.cpp.o	eca03f953d02e1ec
+19	35	1734964569609594000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/Main.qml	78780aa00d0c9a47
 196	276	1734290117633276392	.rcc/qmlcache/appuntitled5_Button_qml.cpp	5c2677c781e567b1
-61	75	1734476348514897989	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/appuntitled5_json_file_list.txt.timestamp	88c23232506a1cb
-29	183	1734475130478871161	.qt/qml_imports/appuntitled5_build.cmake	d8246d3eca0755f5
-395	412	1734475130709601822	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_appuntitled5_raw_qml_0.cpp	764927701b4dd459
-1779	1983	1734475132077435923	appuntitled5.app/Contents/MacOS/appuntitled5	a1ed86b1155c4b1f
+450	470	1734964570044311229	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/appuntitled5_json_file_list.txt.timestamp	88c23232506a1cb
+20	154	1734964569727372469	.qt/qml_imports/appuntitled5_build.cmake	d8246d3eca0755f5
+450	471	1734964570044885774	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_appuntitled5_raw_qml_0.cpp	764927701b4dd459
+1884	2049	1734909590364421168	appuntitled5.app/Contents/MacOS/appuntitled5	a1ed86b1155c4b1f
 28	55	1734288220049036418	untitled5/qrc.qrc	8383236783a5f018
-26	47	1734217713784994249	untitled5/Second.qml	cc0a81834328e004
-30	57	1734291073716954665	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/res.qrc	30c0527afb1058e7
-498	1553	1734475130796310189	CMakeFiles/appuntitled5.dir/appuntitled5_qmltyperegistrations.cpp.o	798caca5ce7dbc82
-75	95	1734476348515319199	meta_types/qt6appuntitled5_debug_metatypes.json.gen	f5b39a6f031dec93
-61	75	1734476348514897989	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/appuntitled5_json_file_list.txt	88c23232506a1cb
-248	279	1734290553923125078	.rcc/qmlcache/appuntitled5_qmlcache_loader.cpp	599f6910c6e62abd
-440	498	1734475130791827746	.rcc/qmlcache/appuntitled5_Main_qml.cpp	fae7611237789b7a
-23	61	1734476348463319153	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_autogen/mocs_compilation.cpp	dada95e149a13fd7
+19	35	1734964569608948000	untitled5/Second.qml	cc0a81834328e004
+450	470	1734964570044311229	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/appuntitled5_json_file_list.txt	88c23232506a1cb
+591	1659	1734964570165691929	CMakeFiles/appuntitled5.dir/appuntitled5_qmltyperegistrations.cpp.o	798caca5ce7dbc82
+471	488	1734964570062502000	meta_types/qt6appuntitled5_debug_metatypes.json.gen	f5b39a6f031dec93
+531	590	1734964570160882694	.rcc/qmlcache/appuntitled5_Main_qml.cpp	fae7611237789b7a
+154	450	1734964570015015112	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_autogen/mocs_compilation.cpp	dada95e149a13fd7
 276	1779	1734290117637671330	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Button_qml.cpp.o	4b6ac2c079bc4792
-307	390	1734290554031780689	.rcc/qmlcache/appuntitled5_Second_qml.cpp	cb20b932f13f8c1
-307	390	1734290554031780689	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Second_qml.cpp	cb20b932f13f8c1
-248	279	1734290553923125078	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_qmlcache_loader.cpp	599f6910c6e62abd
-23	61	1734476348463319153	appuntitled5_autogen/mocs_compilation.cpp	dada95e149a13fd7
-29	183	1734475130478871161	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/qml_imports/appuntitled5_build.cmake	d8246d3eca0755f5
-248	276	1734290553920138675	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_qmake_untitled5.cpp	8196a0bb23d56312
+532	590	1734964570160959570	.rcc/qmlcache/appuntitled5_Second_qml.cpp	cb20b932f13f8c1
+532	590	1734964570160959570	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Second_qml.cpp	cb20b932f13f8c1
+450	473	1734964570046848826	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_qmlcache_loader.cpp	599f6910c6e62abd
+154	450	1734964570015015112	appuntitled5_autogen/mocs_compilation.cpp	dada95e149a13fd7
+20	154	1734964569727372469	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/qml_imports/appuntitled5_build.cmake	d8246d3eca0755f5
 29	62	1734290117422484430	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/Button.qml	9eb1b7f006761a65
-75	95	1734476348515319199	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/qt6appuntitled5_debug_metatypes.json	f5b39a6f031dec93
-498	1676	1734475130796764437	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Main_qml.cpp.o	e01486cbcdde907e
+450	471	1734964570044757356	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_qmake_untitled5.cpp	8196a0bb23d56312
+20	36	1734964569609994000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/res.qrc	30c0527afb1058e7
+450	473	1734964570046848826	.rcc/qmlcache/appuntitled5_qmlcache_loader.cpp	599f6910c6e62abd
 196	276	1734290117633276392	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Button_qml.cpp	5c2677c781e567b1
-61	75	1734476348514897989	meta_types/appuntitled5_json_file_list.txt	88c23232506a1cb
-75	95	1734476348515319199	meta_types/qt6appuntitled5_debug_metatypes.json	f5b39a6f031dec93
-498	1694	1734475130796656854	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_qmlcache_loader.cpp.o	ae0ed571886b12ce
-498	1732	1734475130796182106	CMakeFiles/appuntitled5.dir/main.cpp.o	4e401512e0c09233
-209	268	1733948789970566855	untitled5/appuntitled5.qmltypes	dc8a6bf955938460
-498	622	1734475130796430272	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_qmake_untitled5.cpp.o	47a0e999aeda6f95
+471	488	1734964570062502000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/qt6appuntitled5_debug_metatypes.json	f5b39a6f031dec93
+592	1646	1734964570166383266	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Main_qml.cpp.o	e01486cbcdde907e
+450	470	1734964570044311229	meta_types/appuntitled5_json_file_list.txt	88c23232506a1cb
+471	488	1734964570062502000	meta_types/qt6appuntitled5_debug_metatypes.json	f5b39a6f031dec93
+591	1739	1734964570166000389	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_qmlcache_loader.cpp.o	ae0ed571886b12ce
+591	1761	1734964570165574553	CMakeFiles/appuntitled5.dir/main.cpp.o	4e401512e0c09233
+595	715	1734964570169220990	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_appuntitled5_raw_qml_0.cpp.o	360350b9f6752e73
+17	26	1734964569547470243	clean	7e9652ca08bddf38
+4	498	1734965023962980657	build.ninja	4347e9fe01270ed6
+591	1619	1734964570165376552	CMakeFiles/appuntitled5.dir/appuntitled5_autogen/mocs_compilation.cpp.o	f250c79496df1cf8
+488	531	1734964570092530532	untitled5/appuntitled5.qmltypes	dc8a6bf955938460
+3	17	1734964569533998045	CMakeFiles/clean.additional	e29a1cb019ac50bf
+591	711	1734964570165797221	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_qmake_untitled5.cpp.o	47a0e999aeda6f95
+4	22	1734965056524757524	CMakeFiles/clean.additional	e29a1cb019ac50bf
+22	34	1734965056542168326	clean	7e9652ca08bddf38
+3	16	1734965069991957035	CMakeFiles/clean.additional	e29a1cb019ac50bf
+16	25	1734965070004996064	clean	7e9652ca08bddf38
+26	42	1734965070076034000	untitled5/ButtenTest.qml	d7523136b1bb21e
+26	42	1734965070076034000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/ButtenTest.qml	d7523136b1bb21e
+26	42	1734965070076262000	untitled5/Main.qml	78780aa00d0c9a47
+26	42	1734965070076262000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/Main.qml	78780aa00d0c9a47
+26	43	1734965070076461000	untitled5/res.qrc	30c0527afb1058e7
+26	43	1734965070076461000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/res.qrc	30c0527afb1058e7
+26	43	1734965070076825000	untitled5/Second.qml	cc0a81834328e004
+26	43	1734965070076825000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/Second.qml	cc0a81834328e004
+26	171	1734965070204138352	.qt/qml_imports/appuntitled5_build.cmake	d8246d3eca0755f5
+26	171	1734965070204138352	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/qml_imports/appuntitled5_build.cmake	d8246d3eca0755f5
+171	353	1734965070377358083	appuntitled5_autogen/timestamp	dada95e149a13fd7
+171	353	1734965070377358083	appuntitled5_autogen/mocs_compilation.cpp	dada95e149a13fd7
+171	353	1734965070377358083	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_autogen/timestamp	dada95e149a13fd7
+171	353	1734965070377358083	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_autogen/mocs_compilation.cpp	dada95e149a13fd7
+353	373	1734965070406582742	meta_types/appuntitled5_json_file_list.txt	88c23232506a1cb
+353	373	1734965070406582742	meta_types/appuntitled5_json_file_list.txt.timestamp	88c23232506a1cb
+353	373	1734965070406582742	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/appuntitled5_json_file_list.txt	88c23232506a1cb
+353	373	1734965070406582742	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/appuntitled5_json_file_list.txt.timestamp	88c23232506a1cb
+353	373	1734965070407075494	.qt/rcc/qrc_appuntitled5_raw_qml_0.cpp	764927701b4dd459
+353	373	1734965070407075494	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_appuntitled5_raw_qml_0.cpp	764927701b4dd459
+353	373	1734965070406978286	.qt/rcc/qrc_qmake_untitled5.cpp	8196a0bb23d56312
+353	373	1734965070406978286	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_qmake_untitled5.cpp	8196a0bb23d56312
+353	376	1734965070409484591	.rcc/qmlcache/appuntitled5_qmlcache_loader.cpp	599f6910c6e62abd
+353	376	1734965070409484591	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_qmlcache_loader.cpp	599f6910c6e62abd
+353	381	1734965070414689536	appuntitled5_autogen/EWIEGA46WW/qrc_res.cpp	ea6cba970814f30e
+353	381	1734965070414689536	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_autogen/EWIEGA46WW/qrc_res.cpp	ea6cba970814f30e
+373	390	1734965070424204000	meta_types/qt6appuntitled5_debug_metatypes.json.gen	f5b39a6f031dec93
+373	390	1734965070424204000	meta_types/qt6appuntitled5_debug_metatypes.json	f5b39a6f031dec93
+373	390	1734965070424204000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/qt6appuntitled5_debug_metatypes.json.gen	f5b39a6f031dec93
+373	390	1734965070424204000	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/meta_types/qt6appuntitled5_debug_metatypes.json	f5b39a6f031dec93
+390	433	1734965070454074833	appuntitled5_qmltyperegistrations.cpp	dc8a6bf955938460
+390	433	1734965070454074833	untitled5/appuntitled5.qmltypes	dc8a6bf955938460
+390	433	1734965070454074833	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/appuntitled5_qmltyperegistrations.cpp	dc8a6bf955938460
+390	433	1734965070454074833	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/untitled5/appuntitled5.qmltypes	dc8a6bf955938460
+433	487	1734965070519189436	.rcc/qmlcache/appuntitled5_Second_qml.cpp	cb20b932f13f8c1
+433	487	1734965070519189436	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Second_qml.cpp	cb20b932f13f8c1
+433	487	1734965070519422520	.rcc/qmlcache/appuntitled5_ButtenTest_qml.cpp	81471bd8541470d8
+433	487	1734965070519422520	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_ButtenTest_qml.cpp	81471bd8541470d8
+433	488	1734965070519875731	.rcc/qmlcache/appuntitled5_Main_qml.cpp	fae7611237789b7a
+433	488	1734965070519875731	/Users/alhusseinalmasri/Documents/QT Projecte/Test 1/untitled5/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Main_qml.cpp	fae7611237789b7a
+488	633	1734965070522792080	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_qmake_untitled5.cpp.o	47a0e999aeda6f95
+633	697	1734965070666985194	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_appuntitled5_raw_qml_0.cpp.o	360350b9f6752e73
+697	761	1734965070731751087	CMakeFiles/appuntitled5.dir/appuntitled5_autogen/EWIEGA46WW/qrc_res.cpp.o	dff340454ef0fb05
+488	1635	1734965070522565204	CMakeFiles/appuntitled5.dir/main.cpp.o	4e401512e0c09233
+488	1681	1734965070522682038	CMakeFiles/appuntitled5.dir/appuntitled5_qmltyperegistrations.cpp.o	798caca5ce7dbc82
+488	1692	1734965070522386786	CMakeFiles/appuntitled5.dir/appuntitled5_autogen/mocs_compilation.cpp.o	f250c79496df1cf8
+494	1730	1734965070528903197	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Second_qml.cpp.o	89656f2fd757cfb1
+491	1753	1734965070525619262	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_Main_qml.cpp.o	e01486cbcdde907e
+495	1763	1734965070529035322	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_ButtenTest_qml.cpp.o	ef91a679574da9c7
+490	1775	1734965070524322880	CMakeFiles/appuntitled5.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appuntitled5_qmlcache_loader.cpp.o	ae0ed571886b12ce
+488	1815	1734965070522898414	CMakeFiles/appuntitled5.dir/settingshandler.cpp.o	eca03f953d02e1ec

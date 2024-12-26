@@ -1,5 +1,15 @@
 # Qt build directory
 build*/
+build/
+*.pro.user
+
+# Qt Creator
 *.pro.user
 *.qmake.stash
 *.qmake.cache
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+build/
